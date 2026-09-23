@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build computational tools at the intersection of biology, imaging, and data science — translating complex biomedical problems into reproducible, quantitative solutions. My work spans ML-driven imaging pipelines, cardiovascular CFD simulation, and genomic sequence analysis. I have a B.S. from the University of Maryland and actively seeking entry-level roles in biomedical engineering, bioinformatics, or healthcare data science.<br><br>
+I build computational tools at the intersection of biology, imaging, and data science — translating complex biomedical problems into reproducible, quantitative solutions. My work spans ML-driven imaging pipelines, cardiovascular CFD simulation, and genomic sequence analysis. I have a B.S. in Biocomputational Engineering from the University of Maryland, and am actively seeking entry-level roles in biomedical engineering, bioinformatics, or healthcare data science.<br><br>
 
 
 ## 🌐 Socials:
